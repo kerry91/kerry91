@@ -1,6 +1,6 @@
 Hi 👋 my name is Kerry A Warnes
 ===============================  
-Aspiring Frontend developer 
+Aspiring frontend developer 
 ---------------------------  
 I have been practising my frontend development in the hope of acquiring a career  
 * 🌍  I'm based in Frinton on Sea 
