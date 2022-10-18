@@ -1,4 +1,4 @@
-Hi, my name is Kerry A Warnes 
+Hi 👋 my name is Kerry A Warnes
 ===============================  
 Aspiring Frontend developer 
 ---------------------------  
