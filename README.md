@@ -1,5 +1,7 @@
 # 💫 About Me:
-🌍  I'm based in Frinton on Sea <br>🖥️  See my portfolio at [KAW Inc.](http://kaw-portfolio.netlify.app/) 
+🌍  I'm based in Frinton on Sea 
+<br>🖥️  See my portfolio at [KAW Inc.](http://kaw-portfolio.netlify.app/) 
+<br>🖥️  See my CV at [KAW CV](http://kaw-cv.netlify.app/) 
 <br>✉️  You can contact me at [kerry91warnes@gmail.com](mailto:kerry91warnes@gmail.com) 
 <br>🔭 I’m currently working on: Full Stack Web Development with Angular Specialization
 <br>🌱 I’m currently learning: JavaScript frameworks
