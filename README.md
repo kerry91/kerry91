@@ -7,7 +7,7 @@
 <br>
 <br>🌱 I’m currently learning: [Full Stack Web Development with Angular Specialization](https://www.coursera.org/specializations/full-stack-mobile-app-development) 
 <br>
-<br>⚡ Fun fact: In another life I programed [Crestron](https://www.crestron.com/) home automation systems. 
+<br>⚡ Fun fact: In another life I programmed [Crestron](https://www.crestron.com/) home automation systems. 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry91&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
