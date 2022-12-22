@@ -9,7 +9,7 @@
 <br>
 <br>⚡ Fun fact: In another life I programed [Crestron](https://www.crestron.com/) home automation systems. 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry91&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry91&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kerry91&icon=2&color=6)](https://visitcount.itsvg.in)
