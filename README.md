@@ -8,11 +8,10 @@
 <br>🌱 I’m currently learning: [Full Stack Web Development with Angular Specialization](https://www.coursera.org/specializations/full-stack-mobile-app-development) 
 <br>
 <br>⚡ Fun fact: In another life I programed [Crestron](https://www.crestron.com/) home automation systems. 
-<br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry91&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kerry91&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kerry91&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kerry91&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
