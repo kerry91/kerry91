@@ -5,7 +5,7 @@
 <br>
 <br>✉️  You can contact me at [kerry91warnes@gmail.com](mailto:kerry91warnes@gmail.com) 
 <br>
-<br>📖 Currently working on: [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+<br>📖 Currently working on: [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 <br>
 <br>⚡ Fun fact: In another life I programmed [Crestron](https://www.crestron.com/Products/Control-Hardware-Software/Software) home automation systems. 
 
