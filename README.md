@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 <br>🖥️  See my portfolio at [KAW Inc.](http://kaw-portfolio.netlify.app/)
 <br>
 <br>✉️  You can contact me at [kerry91warnes@gmail.com](mailto:kerry91warnes@gmail.com) 
