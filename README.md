@@ -1,6 +1,4 @@
 # 💫 About Me:
-🌍  I'm based in Frinton on Sea
-<br>
 <br>🖥️  See my portfolio at [KAW Inc.](http://kaw-portfolio.netlify.app/)
 <br>
 <br>✉️  You can contact me at [kerry91warnes@gmail.com](mailto:kerry91warnes@gmail.com) 
